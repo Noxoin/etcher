@@ -1404,8 +1404,8 @@
     },
     "etcher-image-write": {
       "version": "7.0.0",
-      "from": "etcher-image-write@7.0.0",
-      "resolved": "https://registry.npmjs.org/etcher-image-write/-/etcher-image-write-7.0.0.tgz",
+      "from": "resin-io-modules/etcher-image-write#not-enough-capacity-off-by-one",
+      "resolved": "git://github.com/resin-io-modules/etcher-image-write.git#f2d9d3cc640894f2b6a6a6d828346b514db8f0f7",
       "dependencies": {
         "isarray": {
           "version": "1.0.0",
